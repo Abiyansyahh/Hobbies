@@ -1,0 +1,4 @@
+nama: muhammad adib abiyansyah
+status: pelajar
+jenis kelamin: laki-laki
+tempat/tanggal lahir: Karanganyar 19 mei 2006
